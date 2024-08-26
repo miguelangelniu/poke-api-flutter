@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Poke api for fun
+
+Just a little project for fun but it's not finished yet. This is more like a flutter practice.
+
+Experience
+1) I can find pokemons by name or ID
+2) I can see the base stats for that pokemon
+3) I was planning on add a favorite list of pokemons
+4) The NEWS tab i think it was by default hahaha i don't remmember
